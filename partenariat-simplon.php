@@ -1,15 +1,13 @@
 <?php
 /*
 Plugin Name:  Simplon.co Plugin
-Plugin URI:   https://developer.wordpress.org/plugins/the-basics/
+Plugin URI:   https://github.com/stephp30/plugin-Wordpress-partenaire-Simplon
 Description:  Basic WordPress Plugin Header Comment
-Version:      20160911
+Version:      1.0
 Author:       stephp
-Author URI:   https://developer.wordpress.org/
+Author URI:   https://github.com/stephp30/
 License:      GPL2
-License URI:  https://www.gnu.org/licenses/gpl-2.0.html
-Text Domain:  wporg
-Domain Path:  /languages
+
 */
 
 function PartenariatSimplon() {
